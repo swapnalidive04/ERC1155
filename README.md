@@ -23,4 +23,14 @@ O : output
 
 O = n / 10<sup>n-d</sup>
 
+For Example : 
+
+n = 2
+d = 1 
+O = 25 / 10<sup>2-1</sup> 
+O = 2.5
+
+
+
+
 
