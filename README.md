@@ -31,7 +31,7 @@ d = 1
 O = 25 / 10<sup>2-1</sup> 
 O = 2.5
 
-NOTE : In smart contract it may happen that one has buyied the nft but the owner of nft did not pass the nft and ownership of nft to the one who buyied it. So to sort this issue we may use Escrow system or any alternative solutions. 
+NOTE : In smart contract it may happen that one has bought the nft but the owner of nft did not pass the nft and ownership of nft to the one who bought it. So to sort this issue we may use Escrow system or any alternative solutions. 
 
 
 
