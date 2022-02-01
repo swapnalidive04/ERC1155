@@ -6,6 +6,7 @@ Assignment Question:Create a Marketplace Smart contract to buy and sell NFT with
 (Note: Strictly Use ERC1155 only, No plagiarism allowed, can use OpenZeppelin)
 
 The candidate can use the standard library if needed.
+
 -- Functionalities: --
 1) Create Fungible Tokes with ERC1155 Standard
 2) Create Non-Fungible Tokens ERC1155 Standard
